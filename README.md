@@ -207,6 +207,6 @@ Before running, confirm the `peer` MAC address in [final.py](/Users/drgmark7/Des
 
 ## Member
 
-- Napassakorn S. @DrGMark7
-- Phongsapak C. @reawphongsaphak
-- Sirapat P. @HUTZAKI
+- [Napassakorn S.](https://github.com/DrGMark7)
+- [Phongsapak C.](https://github.com/reawphongsaphak)
+- [Sirapat P.](https://github.com/HUTZAKI)
